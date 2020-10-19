@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [dbo].[USP_Test_StartGame]
+AS
+BEGIN
+	EXEC USP_StartGame
+END

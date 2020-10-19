@@ -40,7 +40,7 @@ BEGIN
 		SET @LoopCount = @LoopCount  - 1
 	END
 
-	 EXEC USP_GetMatrix @LoggedinUser = @LoggedinUserOne
+	EXEC USP_GetMatrix @LoggedinUser = @LoggedinUserOne
 	EXEC USP_GetWinningStatus @LoggedinUser = @LoggedinUserOne
 	
 	

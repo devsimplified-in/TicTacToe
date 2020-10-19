@@ -78,6 +78,9 @@
     <Build Include="Stored Procedures\USP_StartGame.sql" />
     <Build Include="Stored Procedures\USP_test.sql" />
     <Build Include="Stored Procedures\USP_test_Execute.sql" />
+    <Build Include="Stored Procedures\USP_Test_RegisterPlayer.sql" />
+    <Build Include="Stored Procedures\USP_Test_PlayerReadytoStart.sql" />
+    <Build Include="Stored Procedures\USP_Test_StartGame.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="tictactoe.database.dev.publish.publish.xml" />
