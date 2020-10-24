@@ -83,6 +83,6 @@
     <Build Include="Stored Procedures\USP_Test_StartGame.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="tictactoe.database.dev.publish.publish.xml" />
+    <None Include="tictactoe.database.publish.xml" />
   </ItemGroup>
 </Project>
