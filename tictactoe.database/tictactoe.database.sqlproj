@@ -84,5 +84,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="tictactoe.database.publish.xml" />
+    <None Include="SqlSchemaCompare.scmp" />
   </ItemGroup>
 </Project>
